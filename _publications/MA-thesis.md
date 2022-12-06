@@ -3,7 +3,8 @@ title: "Fauxpacity: an analogical reanalysis of phonological opacity and evidenc
 collection: publications
 permalink: /publication/MA-thesis
 excerpt: 'Phonological opacity can and should be accounted for by a word-based analogical perspective'
-date: 2019-07-01
+date: 2018-07-01
+venue: "-"
 paperurl: '/files/fauxpacity.pdf'
 citation: 'Maria Copot (2018). Fauxpacity: an analogical reanalysis of phonological opacity and evidence in favour. MA Thesis.'
 ---

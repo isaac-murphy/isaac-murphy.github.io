@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/BA-thesis
 excerpt: 'Phonological opacity can and should be accounted for by a word-based analogical perspective'
 date: 2017-07-01
+venue: "-"
 paperurl: '/files/synaesthesia.pdf'
 citation: 'Maria Copot (2017). Nasals are the colour of the morning sky: synaesthetic correlatesof phonological distinctive features. BA Thesis.'
 ---
