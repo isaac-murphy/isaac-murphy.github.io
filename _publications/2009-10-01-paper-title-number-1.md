@@ -1,7 +1,7 @@
 ---
 title: "A Word-and-Paradigm Workflow for Fieldwork Annotation"
 collection: publications
-permalink: /publication/WP-workflow-fieldwork
+permalink: /publications/WP-workflow-fieldwork
 excerpt: ''There are many challenges in morphological fieldwork annotation, it heavily relies on segmentation and feature labeling (which have both practical and theoretical drawbacks), it’s time-intensive, and the annotator needs to be linguistically trained and may still annotate things inconsistently. We propose a workflow that relies on unsupervised and active learning grounded in Word-and-Paradigm morphology (WP). Machine learning has the potential to greatly accelerate the annotation process and allow a human annotator to focus on problematic cases, while the WP approach makes for an annotation system that is word-based and relational, removing the need to make decisions about feature labeling and segmentation early in the process and allowing speakers of the language of interest to participate more actively, since linguistic training is not necessary. We present a proof-of-concept for the first step of the workflow, in a realistic fieldwork setting, annotators can process hundreds of forms per hour."
 date: 2022
 venue: 'ComputEL'
