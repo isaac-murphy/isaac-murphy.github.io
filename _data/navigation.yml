@@ -6,8 +6,5 @@ main:
   - title: "Talks"
     url: /talks/
 
-  - title: "Teaching"
-    url: /teaching/
-
   - title: "CV"
-    url: /_pages/COPOT_CV_pub.pdf
+    url: /files/COPOT_CV_pub.pdf
