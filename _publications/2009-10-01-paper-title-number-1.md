@@ -2,8 +2,8 @@
 title: "A Word-and-Paradigm Workflow for Fieldwork Annotation"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2009-10-01
+excerpt: 'Increasing community engagement in language documentation through a more intuitive annotation procedure combined with active learning.'
+date: 2022-01-01
 venue: 'ComputEL'
 paperurl: 'https://aclanthology.org/2022.computel-1.20/'
 citation: 'Maria Copot, Sara Court, Noah Diewald, Stephanie Antetomaso, and Micha Elsner. 2022. A Word-and-Paradigm Workflow for Fieldwork Annotation. In <i>Proceedings of the Fifth Workshop on the Use of Computational Methods in the Study of Endangered Languages</i>, pages 159–169, Dublin, Ireland. Association for Computational Linguistics.'
@@ -12,4 +12,4 @@ There are many challenges in morphological fieldwork annotation, it heavily reli
 
 [Download paper here](https://aclanthology.org/2022.computel-1.20/)
 
-Recommended citation: Maria Copot, Sara Court, Noah Diewald, Stephanie Antetomaso, and Micha Elsner. 2022. "A Word-and-Paradigm Workflow for Fieldwork Annotation". In <i>Proceedings of the Fifth Workshop on the Use of Computational Methods in the Study of Endangered Languages</i>, pages 159–169, Dublin, Ireland. Association for Computational Linguistics.
+Recommended citation: Copot et al. 2022. "A Word-and-Paradigm Workflow for Fieldwork Annotation". In <i>Proceedings of the Fifth Workshop on the Use of Computational Methods in the Study of Endangered Languages</i>, pages 159–169, Dublin, Ireland. Association for Computational Linguistics.
