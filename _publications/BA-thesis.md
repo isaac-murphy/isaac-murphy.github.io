@@ -2,7 +2,7 @@
 title: "Nasals are the colour of the morning sky: synaesthetic correlates of phonological distinctive features"
 collection: publications
 permalink: /publication/BA-thesis
-excerpt: 'Phonological opacity can and should be accounted for by a word-based analogical perspective'
+excerpt: 'A pilot study on phoneme-colour binding in synaesthetes. I no longer fully endorse the conclusions.'
 date: 2017-07-01
 venue: "-"
 paperurl: '/files/synaesthesia.pdf'
