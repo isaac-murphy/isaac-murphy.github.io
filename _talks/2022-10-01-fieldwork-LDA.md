@@ -7,8 +7,6 @@ venue: "Language Documentation and Archiving"
 date: 2022-10-01
 location: "Berlin, Germany"
 ---
-We propose a machine-aided workflow inspired by Word-and-Paradigm morphology (Blevins, 2016) designed to facilitate native speaker engagement in linguistic fieldwork. The framework relies on similarity judgments of words in context to identify and annotate paradigms of related forms for morphological analysis and digital resource creation. 
-
 We propose a machine-aided workflow inspired by Word-and-Paradigm morphology (Blevins, 2016) designed to facilitate native speaker engagement in linguistic fieldwork. The framework relies on similarity judgments of words in context to identify and annotate paradigms of related forms for morphological analysis and digital resource creation. A computational model is fed a collection of texts and a list of target lemmas, clustering instances from the text corpus into unlabeled groupings. To correct model output and create annotations, annotators are presented pairs of sentences and are asked to judge whether the target word forms constitute parallel relationships: is mouse:mice instantiating the same relationship of meaning as house:houses? As rouse:rice? 
 
 A version of this task was tested in a fieldwork setting with speakers of Wao Terero (Copot et al., 2022). The consultants reported finding the task intuitive, interesting, and valuable. Annotating in this manner doesn’t use formal grammatical terminology, allowing for increased community participation and agency in language documentation projects.
@@ -22,5 +20,5 @@ Recommended citation: Sara Court, Maria Copot, Noah Diewald, Stephanie Antetomas
 A community-centered workflow for morphological annotation. <i>Language Documentation and
 Archiving</i>. Berlin Brandenburg Academy of Sciences. Berlin, Germany.
 
-[Slides](files/WP-fieldwork-LDA)
+[Slides](files/WP-fieldwork-LDA.pdf)
 [Presentation](https://www.youtube.com/watch?v=i246Qtm43Kc)
