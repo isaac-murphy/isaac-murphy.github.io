@@ -20,5 +20,5 @@ Recommended citation: Sara Court, Maria Copot, Noah Diewald, Stephanie Antetomas
 A community-centered workflow for morphological annotation. <i>Language Documentation and
 Archiving</i>. Berlin Brandenburg Academy of Sciences. Berlin, Germany.
 
-[Slides](files/WP-fieldwork-LDA.pdf)
+[Slides](https://copotm.github.io/files/WP-fieldwork-LDA.pdf)
 [Presentation](https://www.youtube.com/watch?v=i246Qtm43Kc)
