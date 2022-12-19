@@ -7,18 +7,7 @@ venue: "Language Documentation and Archiving"
 date: 2022-10-01
 location: "Berlin, Germany"
 ---
-We propose a machine-aided workflow inspired by Word-and-Paradigm morphology (Blevins, 2016) designed to facilitate native speaker engagement in linguistic fieldwork. The framework relies on similarity judgments of words in context to identify and annotate paradigms of related forms for morphological analysis and digital resource creation. A computational model is fed a collection of texts and a list of target lemmas, clustering instances from the text corpus into unlabeled groupings. To correct model output and create annotations, annotators are presented pairs of sentences and are asked to judge whether the target word forms constitute parallel relationships: is mouse:mice instantiating the same relationship of meaning as house:houses? As rouse:rice? 
-
-A version of this task was tested in a fieldwork setting with speakers of Wao Terero (Copot et al., 2022). The consultants reported finding the task intuitive, interesting, and valuable. Annotating in this manner doesn’t use formal grammatical terminology, allowing for increased community participation and agency in language documentation projects.
-
-The interface includes an active learning component so that annotator corrections will update the model’s representation of the morphological system in real time. Active learning prioritizes the annotation of examples that are likely to be most informative for the model, increasing human annotator speed and efficiency.
-
-Our relational annotation framework builds a scaffold for morphological analysis and digital resource development as part of the annotation process: post-hoc decisions can later be made on labels and segmentation to create Interlinear Glossed Texts if desired. No constraining decisions about subword units, the inflection/derivation boundary, or parts of speech need to be made. If two forms share a relationship parallel to that of other forms in the system, useful information can be extracted to contribute to an analysis of the morphological system as a whole.
-
-
-Recommended citation: Sara Court, Maria Copot, Noah Diewald, Stephanie Antetomaso and Micha Elsner (2022).
-A community-centered workflow for morphological annotation. <i>Language Documentation and
-Archiving</i>. Berlin Brandenburg Academy of Sciences. Berlin, Germany.
-
 [Slides](https://copotm.github.io/files/WP-fieldwork-LDA.pdf)
 [Presentation](https://www.youtube.com/watch?v=i246Qtm43Kc)
+
+Recommended citation: Sara Court, Maria Copot, Noah Diewald, Stephanie Antetomaso and Micha Elsner (2022). A community-centered workflow for morphological annotation. <i>Language Documentation and Archiving</i>. Berlin Brandenburg Academy of Sciences. Berlin, Germany.
